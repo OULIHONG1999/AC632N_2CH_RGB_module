@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "ratio": "c",
+        "*.ld": "c",
+        "broad_led.h": "c",
+        "uart_device_manager.h": "c"
+    }
+}
